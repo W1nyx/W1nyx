@@ -1,16 +1,23 @@
-## Hi there 👋
+# W1nyx
 
-<!--
-**W1nyx/W1nyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository where I showcase various cybersecurity projects and challenges. This repository serves as both a portfolio for my learning journey in cybersecurity and a resource for others looking to dive into this exciting field.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m **W1nyx**, a cybersecurity student passionate about exploring the latest security trends, tools, and methodologies. This repository is where I document my projects, share code snippets, and provide insights into my learning process.
+
+## Table of Contents
+- [Projects](#projects)
+- [Tools & Technologies](#tools-and-technologies)
+
+## Projects
+
+### 1. [Autockicker]
+A small but simple autoclicker using python.
+
+## Tools and Technologies
+
+- **Programming Languages:** Python
+- **Tools:** Wireshark, Kali Linux, TCPdump, Nmap
+- **Platforms:** GitHub
+
