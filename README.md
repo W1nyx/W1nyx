@@ -12,7 +12,7 @@ I’m **W1nyx**, a cybersecurity student passionate about exploring the latest s
 
 ## Projects
 
-### 1. [Autockicker]
+### 1. [Autockicker](https://github.com/W1nyx/Auto-Clicker-v1)
 A small but simple autoclicker using python.
 
 ## Tools and Technologies
