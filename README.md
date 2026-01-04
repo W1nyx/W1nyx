@@ -1,3 +1,5 @@
+![My Project Banner](Banner.jpeg)
+
 # W1nyx
 
 Welcome to my GitHub repository where I showcase various cybersecurity projects and challenges. This repository serves as both a portfolio for my learning journey in cybersecurity and a resource for others looking to dive into this exciting field.
